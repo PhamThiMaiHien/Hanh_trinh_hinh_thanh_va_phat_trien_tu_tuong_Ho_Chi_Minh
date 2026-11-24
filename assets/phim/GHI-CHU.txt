@@ -1,0 +1,2 @@
+Phim tư liệu của web nằm trong thư mục này (định dạng .mp4, kèm ảnh bìa .jpg cùng tên).
+Muốn thay phim: chép tệp .mp4 mới vào đây rồi sửa tên tệp, tên phim trong assets/js/data.js (mục FILMS).
